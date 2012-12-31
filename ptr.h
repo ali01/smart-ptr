@@ -101,4 +101,5 @@ Ptr<T>::operator=( T* p ) {
 
 }
 
+
 #endif
